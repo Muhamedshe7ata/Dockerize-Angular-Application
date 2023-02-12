@@ -37,3 +37,7 @@ CMD [ "npm", "start" ]
 --------------------
 
 Note that this is just an example, and the exact steps may vary depending on your specific Angular application.
+
+this video will help you to build the same Project:
+https://www.youtube.com/watch?v=glt31lvqxgE&list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ&index=13&ab_channel=Codographia
+
